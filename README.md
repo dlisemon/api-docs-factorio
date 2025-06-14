@@ -1,4 +1,4 @@
-This site contains the reference documentation for creating Factorio mods, as well as a few auxiliary topics. Mods can modify gameplay in a variety of ways, such as adding new machines or showing informative GUIs. They are distributed via the mod portal, making them accessible through the in-game mod manager.
+This repo contains the reference documentation for creating Factorio mods, as well as a few auxiliary topics. Mods can modify gameplay in a variety of ways, such as adding new machines or showing informative GUIs. They are distributed via the mod portal, making them accessible through the in-game mod manager.
 
 The API is split into three distinct parts: The settings, prototype, and runtime stages, which are introduced in more detail below. Mods go through these stages in a specific way, which is known as the Data Lifecycle. Understanding it is essential to writing a properly working mod.
 
